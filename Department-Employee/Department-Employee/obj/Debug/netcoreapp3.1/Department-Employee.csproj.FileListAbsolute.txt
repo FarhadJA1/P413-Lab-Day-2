@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\bin\Debug\netcoreapp3.1\Department-Employee.exe
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\bin\Debug\netcoreapp3.1\Department-Employee.deps.json
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\bin\Debug\netcoreapp3.1\Department-Employee.runtimeconfig.json
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\bin\Debug\netcoreapp3.1\Department-Employee.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\bin\Debug\netcoreapp3.1\Department-Employee.dll
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\bin\Debug\netcoreapp3.1\Department-Employee.pdb
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\obj\Debug\netcoreapp3.1\Department-Employee.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\obj\Debug\netcoreapp3.1\Department-Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\obj\Debug\netcoreapp3.1\Department-Employee.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\obj\Debug\netcoreapp3.1\Department-Employee.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\obj\Debug\netcoreapp3.1\Department-Employee.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\obj\Debug\netcoreapp3.1\Department-Employee.dll
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\obj\Debug\netcoreapp3.1\Department-Employee.pdb
+C:\Users\ASUS\Desktop\Lab Days p413\Lab day 2\Department-Employee\Department-Employee\obj\Debug\netcoreapp3.1\Department-Employee.genruntimeconfig.cache
